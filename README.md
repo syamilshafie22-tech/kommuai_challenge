@@ -11,6 +11,10 @@ kommu_ai/
 install: pip install opencv-python numpy
 execute: python batch_process.py
 
+// for yolo
+install: pip install ultralytics
+execute: python batch_process.py
+
 2) METHOD
 Pre-process:
 downscale the image (lessen the burden for the cpu, the cpu used is too weak for the whole process).
@@ -46,7 +50,7 @@ dynamically build custom coordinate bounds.
 improving by adding filter that allows the shadow and dead pixels to be estimated.
 deep learning to predict the boundaries and recognise the change in topography.
 adding datasets to the deep learning systems, allow the module to accurately recognise the lanes and its changes.
-use processor with higher power.
+use pc with higher processing/computational power.
 
 
 
