@@ -1,0 +1,92 @@
+{
+    "frame_0": {
+        "visible_lanes": 0,
+        "lane_center_offset_meters": 0.0,
+        "left_edge_relative_meters": -1.85,
+        "right_edge_relative_meters": 1.85
+    },
+    "frame_80": {
+        "visible_lanes": 1,
+        "lane_center_offset_meters": 0.222,
+        "left_edge_relative_meters": -1.628,
+        "right_edge_relative_meters": 2.072
+    },
+    "frame_160": {
+        "visible_lanes": 0,
+        "lane_center_offset_meters": 0.0,
+        "left_edge_relative_meters": -1.85,
+        "right_edge_relative_meters": 1.85
+    },
+    "frame_240": {
+        "visible_lanes": 0,
+        "lane_center_offset_meters": 0.0,
+        "left_edge_relative_meters": -1.85,
+        "right_edge_relative_meters": 1.85
+    },
+    "frame_320": {
+        "visible_lanes": 0,
+        "lane_center_offset_meters": 0.0,
+        "left_edge_relative_meters": -1.85,
+        "right_edge_relative_meters": 1.85
+    },
+    "frame_400": {
+        "visible_lanes": 0,
+        "lane_center_offset_meters": 0.0,
+        "left_edge_relative_meters": -1.85,
+        "right_edge_relative_meters": 1.85
+    },
+    "frame_480": {
+        "visible_lanes": 1,
+        "lane_center_offset_meters": -0.66,
+        "left_edge_relative_meters": -2.51,
+        "right_edge_relative_meters": 1.19
+    },
+    "frame_560": {
+        "visible_lanes": 1,
+        "lane_center_offset_meters": -2.344,
+        "left_edge_relative_meters": -4.194,
+        "right_edge_relative_meters": -0.494
+    },
+    "frame_640": {
+        "visible_lanes": 0,
+        "lane_center_offset_meters": 0.0,
+        "left_edge_relative_meters": -1.85,
+        "right_edge_relative_meters": 1.85
+    },
+    "frame_720": {
+        "visible_lanes": 0,
+        "lane_center_offset_meters": 0.0,
+        "left_edge_relative_meters": -1.85,
+        "right_edge_relative_meters": 1.85
+    },
+    "frame_800": {
+        "visible_lanes": 0,
+        "lane_center_offset_meters": 0.0,
+        "left_edge_relative_meters": -1.85,
+        "right_edge_relative_meters": 1.85
+    },
+    "frame_880": {
+        "visible_lanes": 0,
+        "lane_center_offset_meters": 0.0,
+        "left_edge_relative_meters": -1.85,
+        "right_edge_relative_meters": 1.85
+    },
+    "frame_960": {
+        "visible_lanes": 0,
+        "lane_center_offset_meters": 0.0,
+        "left_edge_relative_meters": -1.85,
+        "right_edge_relative_meters": 1.85
+    },
+    "frame_1040": {
+        "visible_lanes": 0,
+        "lane_center_offset_meters": 0.0,
+        "left_edge_relative_meters": -1.85,
+        "right_edge_relative_meters": 1.85
+    },
+    "frame_1120": {
+        "visible_lanes": 0,
+        "lane_center_offset_meters": 0.0,
+        "left_edge_relative_meters": -1.85,
+        "right_edge_relative_meters": 1.85
+    }
+}
