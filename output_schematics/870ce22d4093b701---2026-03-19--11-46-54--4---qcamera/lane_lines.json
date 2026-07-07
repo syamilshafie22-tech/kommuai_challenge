@@ -1,0 +1,92 @@
+{
+    "frame_0": {
+        "visible_lanes": 2,
+        "lane_center_offset_meters": 0.021,
+        "left_edge_relative_meters": -1.829,
+        "right_edge_relative_meters": 1.871
+    },
+    "frame_79": {
+        "visible_lanes": 2,
+        "lane_center_offset_meters": -0.095,
+        "left_edge_relative_meters": -1.945,
+        "right_edge_relative_meters": 1.755
+    },
+    "frame_158": {
+        "visible_lanes": 2,
+        "lane_center_offset_meters": 0.219,
+        "left_edge_relative_meters": -1.631,
+        "right_edge_relative_meters": 2.069
+    },
+    "frame_237": {
+        "visible_lanes": 2,
+        "lane_center_offset_meters": 0.225,
+        "left_edge_relative_meters": -1.625,
+        "right_edge_relative_meters": 2.075
+    },
+    "frame_316": {
+        "visible_lanes": 2,
+        "lane_center_offset_meters": -0.082,
+        "left_edge_relative_meters": -1.932,
+        "right_edge_relative_meters": 1.768
+    },
+    "frame_395": {
+        "visible_lanes": 2,
+        "lane_center_offset_meters": 0.1,
+        "left_edge_relative_meters": -1.75,
+        "right_edge_relative_meters": 1.95
+    },
+    "frame_474": {
+        "visible_lanes": 2,
+        "lane_center_offset_meters": -0.041,
+        "left_edge_relative_meters": -1.891,
+        "right_edge_relative_meters": 1.809
+    },
+    "frame_553": {
+        "visible_lanes": 2,
+        "lane_center_offset_meters": -0.038,
+        "left_edge_relative_meters": -1.888,
+        "right_edge_relative_meters": 1.812
+    },
+    "frame_632": {
+        "visible_lanes": 2,
+        "lane_center_offset_meters": -0.051,
+        "left_edge_relative_meters": -1.901,
+        "right_edge_relative_meters": 1.799
+    },
+    "frame_711": {
+        "visible_lanes": 2,
+        "lane_center_offset_meters": -0.018,
+        "left_edge_relative_meters": -1.868,
+        "right_edge_relative_meters": 1.832
+    },
+    "frame_790": {
+        "visible_lanes": 2,
+        "lane_center_offset_meters": 0.122,
+        "left_edge_relative_meters": -1.728,
+        "right_edge_relative_meters": 1.972
+    },
+    "frame_869": {
+        "visible_lanes": 2,
+        "lane_center_offset_meters": 0.182,
+        "left_edge_relative_meters": -1.668,
+        "right_edge_relative_meters": 2.032
+    },
+    "frame_948": {
+        "visible_lanes": 2,
+        "lane_center_offset_meters": -0.115,
+        "left_edge_relative_meters": -1.965,
+        "right_edge_relative_meters": 1.735
+    },
+    "frame_1027": {
+        "visible_lanes": 2,
+        "lane_center_offset_meters": -0.046,
+        "left_edge_relative_meters": -1.896,
+        "right_edge_relative_meters": 1.804
+    },
+    "frame_1106": {
+        "visible_lanes": 2,
+        "lane_center_offset_meters": 0.113,
+        "left_edge_relative_meters": -1.737,
+        "right_edge_relative_meters": 1.963
+    }
+}
