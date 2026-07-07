@@ -26,10 +26,11 @@ computes the threshold value for each pixel's neighbourhood
 isolates the road markings
 
 region of interest:
-detect the peak intensity positions when the lane enters the frame.
-dynamically build custom coordinate bounds.
+the lanes always started at the bottom of the screen and move along to the horizon.
+the module will follow and calculate the pixels close to the bottom and find the whole road.
+with the bottom comes as the anchor, the module will build up the mapping of the road instead of a rigid bounding box.
 
-3)ASSUMPTION
+3) ASSUMPTION
 - the mapping of the lane dependant on the camera position as it mounted to the car.
 - different terrain will affect the visibility of the road on the camera.
 - distance between right boundaries and left might not be constant.
